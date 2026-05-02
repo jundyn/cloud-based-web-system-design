@@ -476,30 +476,6 @@ npx playwright test
 k6 run tests/load/booking-flow.js --vus 100 --duration 60s
 ```
 
----
-
-## References
-
-1. Burns, B., Grant, B., Oppenheimer, D., Brewer, E., & Wilkes, J. (2022). *Kubernetes: Up and Running* (3rd ed.). O'Reilly Media.
-
-2. Dorsey, E. R., & Topol, E. J. (2016). State of telehealth. *New England Journal of Medicine, 375*(2), 154–161. https://doi.org/10.1056/NEJMra1601705
-
-3. Kruse, C. S., Smith, B., Vanderlinden, H., & Nealand, A. (2017). Security techniques for the electronic health records. *Journal of Medical Systems, 41*(8), 127. https://doi.org/10.1007/s10916-017-0778-4
-
-4. McKinsey Global Institute. (2021). *Telehealth: A quarter-trillion-dollar post-COVID-19 reality?* McKinsey & Company. https://www.mckinsey.com/industries/healthcare
-
-5. Newman, S. (2021). *Building Microservices: Designing Fine-Grained Systems* (2nd ed.). O'Reilly Media.
-
-6. OWASP Foundation. (2023). *OWASP Top Ten*. https://owasp.org/www-project-top-ten/
-
-7. U.S. Department of Health and Human Services. (2023). *HIPAA security rule: Technical safeguards* (45 CFR §164.312). HHS.gov.
-
-8. Wootton, R., Bonnardot, L., & Byrne, T. (2019). Telemedicine in low-resource settings: Systematic review. *Frontiers in Public Health, 7*, 131. https://doi.org/10.3389/fpubh.2019.00131
-
-9. World Health Organization. (2023). *World Health Statistics 2023: Monitoring Health for the SDGs*. WHO Press.
-
----
-
 <div align="center">
 
 **MediConnect** · Capstone Project · May 2026
